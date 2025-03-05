@@ -1,2 +1,2 @@
-user1 = vinay 
-user2 = vikas
+user1 = name1 
+user2 = name2
