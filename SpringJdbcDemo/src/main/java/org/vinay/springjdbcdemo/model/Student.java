@@ -8,9 +8,12 @@ import org.springframework.stereotype.Component;
 public class Student {
 
     //properties
+    // variables
     private int rollNo;
     private String name;
     private int marks;
+
+    
 
 
 
